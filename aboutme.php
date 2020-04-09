@@ -2,6 +2,5 @@
 echo "Nama : Putri Aurellia Indriyani";
 echo "Kelas : XI RPL 2";
 echo "Asal Sekolah : SMK TARUNA BHAKTI DEPOK";
-echo "No telepon : 08995989398";
-echo "Email : putriaurellia030@gmail.com":
+echo "Alamat : Kp.sidamukti RT07/07 no 73 jawa barat,kota depok, kota depok";
 ?>
